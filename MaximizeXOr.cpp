@@ -1,7 +1,9 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
-
+/*
+Finding the maximum XOR value between pair of numbers in range from n1 to n2 \
+*/
 int main()
 {
     int n1,n2;
