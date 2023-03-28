@@ -33,13 +33,13 @@ int main()
         dp[i]=INT_MAX;
     }
 
-
+for(int i=1; i<=sum; i++)
+             {
 
         for(int j=0; j<n; j++)
         {
 
-             for(int i=1; i<=sum; i++)
-             {
+             
 
             if(i-coin[j]==0)
             {
